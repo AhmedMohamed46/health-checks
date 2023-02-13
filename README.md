@@ -1,2 +1,2 @@
 # health-checks
-test health by scrips
+test health-checks by scrips python
